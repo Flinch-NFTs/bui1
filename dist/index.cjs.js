@@ -7718,14 +7718,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/boobsdotfinance",
+        href: "https://t.me/binaryswapio",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/boobsdotfinance",
+    href: "https://twitter.com/binaryswapio",
   },
 ];
 var MENU_HEIGHT = 64;

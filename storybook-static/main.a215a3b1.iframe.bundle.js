@@ -25261,12 +25261,12 @@
           {
             label: "Discord",
             icon: "TelegramIcon",
-            items: [{ label: "English", href: "https://t.me/boobsdotfinance" }],
+            items: [{ label: "English", href: "https://t.me/binaryswapio" }],
           },
           {
             label: "Twitter",
             icon: "TwitterIcon",
-            href: "https://twitter.com/boobsdotfinance",
+            href: "https://twitter.com/binaryswapio",
           },
         ],
         rainbowAnimation = Object(styled_components_browser_esm.keyframes)([
