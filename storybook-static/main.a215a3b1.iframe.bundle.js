@@ -84,7 +84,7 @@
           borderColor: "#E9EAEB",
           gradients: {
             bubblegum:
-              "linear-gradient(139.73deg, rgba(255, 99, 71,0) 0%, rgba(255, 99, 71,0) 100%)",
+              "rgba(18, 18, 18, 0.7)",
             cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
             blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
             violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
@@ -109,7 +109,7 @@
           borderColor: "#524B63",
           gradients: {
             bubblegum:
-              "linear-gradient(139.73deg, #070707 0%, rgba(255, 99, 71,0) 100%)",
+              "rgba(18, 18, 18, 0.7)",
             cardHeader: "linear-gradient(166.77deg, #070707 0%, #3A3045 100%)",
             blue: "linear-gradient(180deg, #070707 0%, #19778C 100%)",
             violet: "linear-gradient(180deg, #070707 0%, #6D4DB2 100%)",
@@ -25883,7 +25883,7 @@
       var Logo_Logo = function Logo() {
         return Object(jsx_runtime.jsx)("img", {
           alt: "CubFinance",
-          src: "/images/cub/boobs.png",
+          src: "/images/cub/token.png",
           style: { width: "auto", height: "30px" },
         });
       };
