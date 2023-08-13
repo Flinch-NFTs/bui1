@@ -9,7 +9,7 @@ const Logo: React.FC<LogoProps> = () => {
   return (
     <img
       alt="CubFinance"
-      src="/images/cub/boobs.png"
+      src="/images/cub/token.png"
       style={{ width: "auto", height: "30px" }}
     />
   );
