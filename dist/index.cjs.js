@@ -8984,10 +8984,10 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://scan.pulsechain.com/address/" + account,
+          href: "https://mainnet.opbnbscan.com/address/" + account,
           mr: "16px",
         },
-        "View on PulseScan"
+        "View on opbnbscan"
       ),
       React__default["default"].createElement(
         CopyToClipboard,
