@@ -35,6 +35,9 @@ const StyledLink = styled(Link)`
   }
   .right-eye {
     animation-delay: 20ms;
+    opacity: 1;
+
+    
   }
   &:hover {
     .left-eye,
