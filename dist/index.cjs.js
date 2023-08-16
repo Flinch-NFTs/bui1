@@ -8113,7 +8113,7 @@ var CakePrice = function (_a) {
     ? React__default["default"].createElement(
         PriceLink,
         {
-          href: "https://dexscreener.com/base",
+          href: "https://dexscreener.com/opbnb/0x506b8322e1159d06e493ebe7ffa41a24291e7ae3",
           target: "_blank",
         },
         React__default["default"].createElement(Icon$V, {
